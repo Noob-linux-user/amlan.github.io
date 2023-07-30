@@ -59,26 +59,26 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
+			name: 'Chat-Gpt',
+			icon: 'bot',
+			link: 'https://chat.openai.com/chat',
 		},
 		{
 			id: '3',
 			name: 'Unacdemy',
-			icon: 'Unacademy',
+			icon: 'graduation-cap',
 			link: 'https://unacademy.com/goal/iit-jam/SIFWL/continue_watching',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'Docs',
-			link: 'https://drive.google.com/drive/u/0/folders/1UQx9TxYCArdC0ZLeZ-TKXBQb_8ZjIb2W',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'Reddit',
+			icon: 'thumbs-up',
 			link: 'https://reddit.com',
 		},
 		{
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Shanu Sir Docs',
+					link: 'https://drive.google.com/drive/u/0/folders/1UQx9TxYCArdC0ZLeZ-TKXBQb_8ZjIb2W',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Test Series',
+					link: 'https://docs.google.com/document/d/1LHA6OcLxKwz0S4ll356oB1-zd2gRcekp2xzgl7eMA1g/edit',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Revision',
+					link: 'https://docs.google.com/document/d/1OqEh8jM15DS2WySCQVBbu90rpI7Fteea3bIExE34qj0/edit',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Blank',
+					link: '',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'bot',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Chat Gpt',
+					link: 'https://chat.openai.com/chat',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Google Brad',
+					link: 'https://bard.google.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Leonardo AI',
+					link: 'https://app.leonardo.ai/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Notion',
+					link: 'https://www.Notion.com',
 				},
 			],
 		},
