@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://docs.google.com/document/d/1OqEh8jM15DS2WySCQVBbu90rpI7Fteea3bIExE34qj0/edit',
 				},
 				{
-					name: 'Blank',
-					link: '',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/u/1/',
 				},
 			],
 		},
