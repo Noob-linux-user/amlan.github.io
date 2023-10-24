@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Chat Gpt',
-					link: 'https://chat.openai.com/chat',
+					name: 'Bing-Chat',
+					link: 'https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1',
 				},
 				{
 					name: 'Google Brad',
