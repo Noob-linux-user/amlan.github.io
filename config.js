@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Chat-Gpt',
+			name: 'NetFlix',
 			icon: 'netflix',
-			link: 'https://chat.openai.com/chat',
+			link: 'https://www.netflix.com/browse',
 		},
 		{
 			id: '3',
@@ -161,6 +161,10 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
+					name: 'Chat Gpt',
+					link: 'https://chat.openai.com/',
+				},
+				{
 					name: 'Bing-Chat',
 					link: 'https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1',
 				},
@@ -172,10 +176,7 @@ const CONFIG = {
 					name: 'Leonardo AI',
 					link: 'https://app.leonardo.ai/',
 				},
-				{
-					name: 'Notion',
-					link: 'https://www.Notion.com',
-				},
+				
 			],
 		},
 	],
