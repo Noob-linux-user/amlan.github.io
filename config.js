@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'NetFlix',
-			icon: 'netflix',
+			icon: 'clapperboard',
 			link: 'https://www.netflix.com/browse',
 		},
 		{
