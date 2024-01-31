@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Chat-Gpt',
-			icon: 'bot',
+			icon: 'netflix',
 			link: 'https://chat.openai.com/chat',
 		},
 		{
